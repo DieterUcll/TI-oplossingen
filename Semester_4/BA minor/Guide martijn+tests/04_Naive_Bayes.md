@@ -26,6 +26,7 @@ komt goed, gewoon vermenigvuldigen
 Als iemand weet hoe je dit kan laten tonen in orange zonder het handmatig op te moeten zoeken, mag dat gemeld worden (1 martipoint). 
 
 ```
+Mosaiic Display -> age aanduiden en status als interior colour gebruiken. Je ziet dat enkel bij de volwassenen een blauwe balk staat, deze staat voor de crew functionaliteit!
 All of the above
 ```
 
