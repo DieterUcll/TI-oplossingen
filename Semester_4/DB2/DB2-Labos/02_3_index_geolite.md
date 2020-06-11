@@ -109,7 +109,7 @@ where blocks.iprange >>= '193.190.138.215'
 **2.4) Botnet**
 
 ```
-Zelfde als het vorige. Als je toevallig weet hoe deze query kan schrijven zonder vijf keer OR te moeten schijven, mag je dat mij laten weten.
+Zelfde als het vorige. Als je toevallig weet hoe deze query kan schrijven zonder vijf keer OR te moeten schijven, mag je dat mij laten weten.  ( where ... in (ip,ip) )
 ```
 
 **2.5) Optioneel**
